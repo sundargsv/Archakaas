@@ -1,0 +1,28 @@
+Things to do============================
+/***Design*****/
+1. Complete Registration Page - ( photo upload, display msg "Activation link sent", Check if E-mail is already been exist, client-side resize image & upload)
+2. All footers Division (All Pages)                          					======ok=======
+3. Logo Design
+4. Capture Photos and place it to the appropriate place
+5. Features (Pages - Landing, Signup)                        					======ok=======
+6.Prayers Club, Global Temple's - (Fix with Coming Soon page)					======ok=======
+7. My Account >> Profile (with change password and Display profile photo)	    ====started====		   
+8. Forgot Password (Popup with prompting an E-mail ID)                           =====ok======
+9. Change Password, Delete Account (With Alert Msg after button click with help 
+   of php code)                                            						  ====ok=====
+
+/***Server side fixing*****/
+1. Registration (Activation Link)           			*********(Pending: Testing) ====ok==== 
+2. Login /Logout (Forgot password with pop up for email)**********                  ====ok====
+3. Subscription																		
+4. Update Profile
+5. Change Password
+6. Delete Account
+
+
+
+/***Server Scripting***/
+1. Page Name : register-login.php
+
+Check Script : 
+

@@ -1,0 +1,411 @@
+Menu's
+1) Home
+2) Veda Mantras - கணபதி, சுப்ரமண்யர், தேவி, ஸ்வாமி
+3) Library  - Galleries, videos, Audios
+4) Blog
+5) Contact Us - 
+6) My Account - (Display msg as "Please complete yor profile, within 3 days otherwise your account will be deactivated automatically") and Navigations are Logout, User ID(Display), Edit Profile
+
+
+
+						சஹஸ்ரநாம ஸ்தோத்திரம்
+						அஷ்டோத்தர சதநாம ஸ்தோத்திரம்
+						அஷ்டோத்தர சதநாமாவளி
+						சஹஸ்ரநாமாவளி
+						மூல மந்திரங்கள்
+						மாலா மந்திரங்கள்
+						ஸ்தோத்திரங்கள்
+						தியானங்கள்
+						நியாசங்கள்
+
+
+						<!-- Post Content
+					============================================= -->
+					<div class="postcontent nobottommargin clearfix" >
+
+						<h4 id="tab1">சஹஸ்ரநாம ஸ்தோத்திரம்</h4>
+					<div class="tabs tabs-alt tabs-tb clearfix" >
+
+							<ul class="tab-nav clearfix">
+								<li><a href="#tab2-1"><i class="glyphicon glyphicon-home"></i></a></li>
+								<li><a href="#tab2-2"><i class="glyphicon glyphicon-download-alt"></i></a></li>
+								<li><a href="#tab2-3"><i class="glyphicon glyphicon-star"></i></a></li>
+								
+							</ul>
+
+							<div class="tab-container">
+
+								<div class="tab-content clearfix" id="tab2-1">
+									Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo.
+								</div>
+								<div class="tab-content clearfix" id="tab2-2">
+										<h4>Click Download to open e-book</h4>
+
+										<a id="start-downloadbtn" href="#" class="btn btn-success btn-lg">Download</a>
+
+	                            		<div id="start-download" class="alert alert-success" style="display: none; margin-top: 20px;">
+		                                	<strong>Please Wait!</strong>Your Download will start in 
+			                                	<div id="countdown-ex5" class="countdown countdown-inline">
+			                                   	</div>.
+										</div>
+
+										<script>jQuery(document).ready( function($){var newDate4 = new Date(2016, 2, 31);$('#countdown-ex4').countdown({until: newDate4});$('#start-downloadbtn').click( function(){$('#start-downloadbtn').fadeOut(300, function(){$('#start-download').fadeIn(300, function(){var currentDate = new Date();currentDate.setSeconds(currentDate.getSeconds() + 10);$('#countdown-ex5').countdown({until: currentDate,format: 'S',expiryUrl: 'http://themeforest.net/user/SemiColonWeb',onExpiry: function(){$('#start-download').html('Your Download should start automatically. If it dosen\'t, <a href="#" class="alert-link">click here</a>.');}});});});return false; });});</script>
+									</div>
+								
+								</div>
+
+								<div class="tab-content clearfix" id="tab2-3">
+									<p>Mauris eleifend est et turpis. Duis id erat. Suspendisse.</p>
+									
+								</div>
+							</div>
+						</div><!--tab 1-->
+				</div>		
+						<div class="line"></div>
+
+<!--/////////////////////////////////////////////////////2////////////////////////////////////////-->
+					
+
+						<h4 id="tab2">அஷ்டோத்தர சதநாம ஸ்தோத்திரம்</h4>
+
+						<div class="tabs tabs-alt tabs-tb clearfix" >
+
+							<ul class="tab-nav clearfix">
+								<li><a href="#tab2-1"><i class="glyphicon glyphicon-home"></i></a></li>
+								<li><a href="#tab2-2"><i class="glyphicon glyphicon-download-alt"></i></a></li>
+								<li><a href="#tab2-3"><i class="glyphicon glyphicon-star"></i></a></li>
+								
+							</ul>
+
+							<div class="tab-container">
+
+								<div class="tab-content clearfix" id="tab2-1">
+									Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo.
+								</div>
+								<div class="tab-content clearfix" id="tab2-2">
+										<h4>Click Download to open e-book</h4>
+
+										<a id="start-downloadbtn" href="#" class="btn btn-success btn-lg">Download</a>
+
+	                            		<div id="start-download" class="alert alert-success" style="display: none; margin-top: 20px;">
+	                                	<strong>Please Wait!</strong> Your Download will start in 
+		                                	<div id="countdown-ex5" class="countdown countdown-inline">
+		                                		
+		                                	</div>.
+										</div>
+
+										<script>jQuery(document).ready( function($){var newDate4 = new Date(2016, 2, 31);$('#countdown-ex4').countdown({until: newDate4});$('#start-downloadbtn').click( function(){$('#start-downloadbtn').fadeOut(300, function(){$('#start-download').fadeIn(300, function(){var currentDate = new Date();currentDate.setSeconds(currentDate.getSeconds() + 10);$('#countdown-ex5').countdown({until: currentDate,format: 'S',expiryUrl: 'http://themeforest.net/user/SemiColonWeb',onExpiry: function(){$('#start-download').html('Your Download should start automatically. If it dosen\'t, <a href="#" class="alert-link">click here</a>.');}});});});return false; });});</script>
+									</div>
+								
+								</div>
+
+								<div class="tab-content clearfix" id="tab2-3">
+									<p>Mauris eleifend est et turpis. Duis id erat. Suspendisse.</p>
+									
+								</div>
+							</div>
+						</div><!--tab 2-->
+
+						<div class="line"></div>
+
+<!--/////////////////////////////////////////////////////3////////////////////////////////////////-->
+						<h4 id="tab3">அஷ்டோத்தர சதநாமாவளி</h4>
+
+						<div class="tabs tabs-alt tabs-tb clearfix" >
+
+							<ul class="tab-nav clearfix">
+								<li><a href="#tab2-1"><i class="glyphicon glyphicon-home"></i></a></li>
+								<li><a href="#tab2-2"><i class="glyphicon glyphicon-download-alt"></i></a></li>
+								<li><a href="#tab2-3"><i class="glyphicon glyphicon-star"></i></a></li>
+								
+							</ul>
+
+							<div class="tab-container">
+
+								<div class="tab-content clearfix" id="tab2-1">
+									Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo.
+								</div>
+								<div class="tab-content clearfix" id="tab2-2">
+										<h4>Click Download to open e-book</h4>
+
+										<a id="start-downloadbtn" href="#" class="btn btn-success btn-lg">Download</a>
+
+	                            		<div id="start-download" class="alert alert-success" style="display: none; margin-top: 20px;">
+	                                	<strong>Please Wait!</strong> Your Download will start in 
+		                                	<div id="countdown-ex5" class="countdown countdown-inline">
+		                                		
+		                                	</div>.
+										</div>
+
+										<script>jQuery(document).ready( function($){var newDate4 = new Date(2016, 2, 31);$('#countdown-ex4').countdown({until: newDate4});$('#start-downloadbtn').click( function(){$('#start-downloadbtn').fadeOut(300, function(){$('#start-download').fadeIn(300, function(){var currentDate = new Date();currentDate.setSeconds(currentDate.getSeconds() + 10);$('#countdown-ex5').countdown({until: currentDate,format: 'S',expiryUrl: 'http://themeforest.net/user/SemiColonWeb',onExpiry: function(){$('#start-download').html('Your Download should start automatically. If it dosen\'t, <a href="#" class="alert-link">click here</a>.');}});});});return false; });});</script>
+									</div>
+								
+								</div>
+
+								<div class="tab-content clearfix" id="tab2-3">
+									<p>Mauris eleifend est et turpis. Duis id erat. Suspendisse.</p>
+									
+								</div>
+							</div>
+						</div><!--tab 3-->
+
+						<div class="line"></div>
+<!--/////////////////////////////////////////////////////4////////////////////////////////////////-->
+						<h4 id="tab3">சஹஸ்ரநாமாவளி</h4>
+
+						<div class="tabs tabs-alt tabs-tb clearfix" >
+
+							<ul class="tab-nav clearfix">
+								<li><a href="#tab2-1"><i class="glyphicon glyphicon-home"></i></a></li>
+								<li><a href="#tab2-2"><i class="glyphicon glyphicon-download-alt"></i></a></li>
+								<li><a href="#tab2-3"><i class="glyphicon glyphicon-star"></i></a></li>
+								
+							</ul>
+
+							<div class="tab-container">
+
+								<div class="tab-content clearfix" id="tab2-1">
+									Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo.
+								</div>
+								<div class="tab-content clearfix" id="tab2-2">
+										<h4>Click Download to open e-book</h4>
+
+										<a id="start-downloadbtn" href="#" class="btn btn-success btn-lg">Download</a>
+
+	                            		<div id="start-download" class="alert alert-success" style="display: none; margin-top: 20px;">
+	                                	<strong>Please Wait!</strong> Your Download will start in 
+		                                	<div id="countdown-ex5" class="countdown countdown-inline">
+		                                		
+		                                	</div>.
+										</div>
+
+										<script>jQuery(document).ready( function($){var newDate4 = new Date(2016, 2, 31);$('#countdown-ex4').countdown({until: newDate4});$('#start-downloadbtn').click( function(){$('#start-downloadbtn').fadeOut(300, function(){$('#start-download').fadeIn(300, function(){var currentDate = new Date();currentDate.setSeconds(currentDate.getSeconds() + 10);$('#countdown-ex5').countdown({until: currentDate,format: 'S',expiryUrl: 'http://themeforest.net/user/SemiColonWeb',onExpiry: function(){$('#start-download').html('Your Download should start automatically. If it dosen\'t, <a href="#" class="alert-link">click here</a>.');}});});});return false; });});</script>
+									</div>
+								
+								</div>
+
+								<div class="tab-content clearfix" id="tab2-3">
+									<p>Mauris eleifend est et turpis. Duis id erat. Suspendisse.</p>
+									
+								</div>
+							</div>
+						</div><!--tab 4-->
+
+						<div class="line"></div>
+
+<!--/////////////////////////////////////////////////////5////////////////////////////////////////-->
+						<h4 id="tab3">மூல மந்திரங்கள</h4>
+
+						<div class="tabs tabs-alt tabs-tb clearfix" >
+
+							<ul class="tab-nav clearfix">
+								<li><a href="#tab2-1"><i class="glyphicon glyphicon-home"></i></a></li>
+								<li><a href="#tab2-2"><i class="glyphicon glyphicon-download-alt"></i></a></li>
+								<li><a href="#tab2-3"><i class="glyphicon glyphicon-star"></i></a></li>
+								
+							</ul>
+
+							<div class="tab-container">
+
+								<div class="tab-content clearfix" id="tab2-1">
+									Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo.
+								</div>
+								<div class="tab-content clearfix" id="tab2-2">
+										<h4>Click Download to open e-book</h4>
+
+										<a id="start-downloadbtn" href="#" class="btn btn-success btn-lg">Download</a>
+
+	                            		<div id="start-download" class="alert alert-success" style="display: none; margin-top: 20px;">
+	                                	<strong>Please Wait!</strong> Your Download will start in 
+		                                	<div id="countdown-ex5" class="countdown countdown-inline">
+		                                		
+		                                	</div>.
+										</div>
+
+										<script>jQuery(document).ready( function($){var newDate4 = new Date(2016, 2, 31);$('#countdown-ex4').countdown({until: newDate4});$('#start-downloadbtn').click( function(){$('#start-downloadbtn').fadeOut(300, function(){$('#start-download').fadeIn(300, function(){var currentDate = new Date();currentDate.setSeconds(currentDate.getSeconds() + 10);$('#countdown-ex5').countdown({until: currentDate,format: 'S',expiryUrl: 'http://themeforest.net/user/SemiColonWeb',onExpiry: function(){$('#start-download').html('Your Download should start automatically. If it dosen\'t, <a href="#" class="alert-link">click here</a>.');}});});});return false; });});</script>
+									</div>
+								
+								</div>
+
+								<div class="tab-content clearfix" id="tab2-3">
+									<p>Mauris eleifend est et turpis. Duis id erat. Suspendisse.</p>
+									
+								</div>
+							</div>
+						</div><!--tab 5-->
+
+						<div class="line"></div>
+<!--/////////////////////////////////////////////////////6////////////////////////////////////////-->
+						<h4 id="tab3">மாலா மந்திரங்கள</h4>
+
+						<div class="tabs tabs-alt tabs-tb clearfix" >
+
+							<ul class="tab-nav clearfix">
+								<li><a href="#tab2-1"><i class="glyphicon glyphicon-home"></i></a></li>
+								<li><a href="#tab2-2"><i class="glyphicon glyphicon-download-alt"></i></a></li>
+								<li><a href="#tab2-3"><i class="glyphicon glyphicon-star"></i></a></li>
+								
+							</ul>
+
+							<div class="tab-container">
+
+								<div class="tab-content clearfix" id="tab2-1">
+									Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo.
+								</div>
+								<div class="tab-content clearfix" id="tab2-2">
+										<h4>Click Download to open e-book</h4>
+
+										<a id="start-downloadbtn" href="#" class="btn btn-success btn-lg">Download</a>
+
+	                            		<div id="start-download" class="alert alert-success" style="display: none; margin-top: 20px;">
+	                                	<strong>Please Wait!</strong> Your Download will start in 
+		                                	<div id="countdown-ex5" class="countdown countdown-inline">
+		                                		
+		                                	</div>.
+										</div>
+
+										<script>jQuery(document).ready( function($){var newDate4 = new Date(2016, 2, 31);$('#countdown-ex4').countdown({until: newDate4});$('#start-downloadbtn').click( function(){$('#start-downloadbtn').fadeOut(300, function(){$('#start-download').fadeIn(300, function(){var currentDate = new Date();currentDate.setSeconds(currentDate.getSeconds() + 10);$('#countdown-ex5').countdown({until: currentDate,format: 'S',expiryUrl: 'http://themeforest.net/user/SemiColonWeb',onExpiry: function(){$('#start-download').html('Your Download should start automatically. If it dosen\'t, <a href="#" class="alert-link">click here</a>.');}});});});return false; });});</script>
+									</div>
+								
+								</div>
+
+								<div class="tab-content clearfix" id="tab2-3">
+									<p>Mauris eleifend est et turpis. Duis id erat. Suspendisse.</p>
+									
+								</div>
+							</div>
+						</div><!--tab 6-->
+
+						<div class="line"></div>
+<!--/////////////////////////////////////////////////////7////////////////////////////////////////-->
+						<h4 id="tab3">ஸ்தோத்திரங்கள்</h4>
+
+						<div class="tabs tabs-alt tabs-tb clearfix" >
+
+							<ul class="tab-nav clearfix">
+								<li><a href="#tab2-1"><i class="glyphicon glyphicon-home"></i></a></li>
+								<li><a href="#tab2-2"><i class="glyphicon glyphicon-download-alt"></i></a></li>
+								<li><a href="#tab2-3"><i class="glyphicon glyphicon-star"></i></a></li>
+								
+							</ul>
+
+							<div class="tab-container">
+
+								<div class="tab-content clearfix" id="tab2-1">
+									Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo.
+								</div>
+								<div class="tab-content clearfix" id="tab2-2">
+										<h4>Click Download to open e-book</h4>
+
+										<a id="start-downloadbtn" href="#" class="btn btn-success btn-lg">Download</a>
+
+	                            		<div id="start-download" class="alert alert-success" style="display: none; margin-top: 20px;">
+	                                	<strong>Please Wait!</strong> Your Download will start in 
+		                                	<div id="countdown-ex5" class="countdown countdown-inline">
+		                                		
+		                                	</div>.
+										</div>
+
+										<script>jQuery(document).ready( function($){var newDate4 = new Date(2016, 2, 31);$('#countdown-ex4').countdown({until: newDate4});$('#start-downloadbtn').click( function(){$('#start-downloadbtn').fadeOut(300, function(){$('#start-download').fadeIn(300, function(){var currentDate = new Date();currentDate.setSeconds(currentDate.getSeconds() + 10);$('#countdown-ex5').countdown({until: currentDate,format: 'S',expiryUrl: 'http://themeforest.net/user/SemiColonWeb',onExpiry: function(){$('#start-download').html('Your Download should start automatically. If it dosen\'t, <a href="#" class="alert-link">click here</a>.');}});});});return false; });});</script>
+									</div>
+								
+								</div>
+
+								<div class="tab-content clearfix" id="tab2-3">
+									<p>Mauris eleifend est et turpis. Duis id erat. Suspendisse.</p>
+									
+								</div>
+							</div>
+						</div><!--tab 7-->
+
+						<div class="line"></div>
+
+<!--/////////////////////////////////////////////////////8////////////////////////////////////////-->
+						<h4 id="tab3">தியானங்கள</h4>
+
+						<div class="tabs tabs-alt tabs-tb clearfix" >
+
+							<ul class="tab-nav clearfix">
+								<li><a href="#tab2-1"><i class="glyphicon glyphicon-home"></i></a></li>
+								<li><a href="#tab2-2"><i class="glyphicon glyphicon-download-alt"></i></a></li>
+								<li><a href="#tab2-3"><i class="glyphicon glyphicon-star"></i></a></li>
+								
+							</ul>
+
+							<div class="tab-container">
+
+								<div class="tab-content clearfix" id="tab2-1">
+									Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo.
+								</div>
+								<div class="tab-content clearfix" id="tab2-2">
+										<h4>Click Download to open e-book</h4>
+
+										<a id="start-downloadbtn" href="#" class="btn btn-success btn-lg">Download</a>
+
+	                            		<div id="start-download" class="alert alert-success" style="display: none; margin-top: 20px;">
+	                                	<strong>Please Wait!</strong> Your Download will start in 
+		                                	<div id="countdown-ex5" class="countdown countdown-inline">
+		                                		
+		                                	</div>.
+										</div>
+
+										<script>jQuery(document).ready( function($){var newDate4 = new Date(2016, 2, 31);$('#countdown-ex4').countdown({until: newDate4});$('#start-downloadbtn').click( function(){$('#start-downloadbtn').fadeOut(300, function(){$('#start-download').fadeIn(300, function(){var currentDate = new Date();currentDate.setSeconds(currentDate.getSeconds() + 10);$('#countdown-ex5').countdown({until: currentDate,format: 'S',expiryUrl: 'http://themeforest.net/user/SemiColonWeb',onExpiry: function(){$('#start-download').html('Your Download should start automatically. If it dosen\'t, <a href="#" class="alert-link">click here</a>.');}});});});return false; });});</script>
+									</div>
+								
+								</div>
+
+								<div class="tab-content clearfix" id="tab2-3">
+									<p>Mauris eleifend est et turpis. Duis id erat. Suspendisse.</p>
+									
+								</div>
+							</div>
+						</div><!--tab 8-->
+
+						<div class="line"></div>
+
+
+<!--/////////////////////////////////////////////////////9////////////////////////////////////////-->
+						<h4 id="tab3">நியாசங்கள்</h4>
+
+						<div class="tabs tabs-alt tabs-tb clearfix" >
+
+							<ul class="tab-nav clearfix">
+								<li><a href="#tab2-1"><i class="glyphicon glyphicon-home"></i></a></li>
+								<li><a href="#tab2-2"><i class="glyphicon glyphicon-download-alt"></i></a></li>
+								<li><a href="#tab2-3"><i class="glyphicon glyphicon-star"></i></a></li>
+								
+							</ul>
+
+							<div class="tab-container">
+
+								<div class="tab-content clearfix" id="tab2-1">
+									Proin elit arcu, rutrum commodo, vehicula tempus, commodo a, risus. Curabitur nec arcu. Donec sollicitudin mi sit amet mauris. Nam elementum quam ullamcorper ante. Etiam aliquet massa et lorem. Mauris dapibus lacus auctor risus. Aenean tempor ullamcorper leo.
+								</div>
+								<div class="tab-content clearfix" id="tab2-2">
+										<h4>Click Download to open e-book</h4>
+
+										<a id="start-downloadbtn" href="#" class="btn btn-success btn-lg">Download</a>
+
+	                            		<div id="start-download" class="alert alert-success" style="display: none; margin-top: 20px;">
+	                                	<strong>Please Wait!</strong> Your Download will start in 
+		                                	<div id="countdown-ex5" class="countdown countdown-inline">
+		                                		
+		                                	</div>.
+										</div>
+
+										<script>jQuery(document).ready( function($){var newDate4 = new Date(2016, 2, 31);$('#countdown-ex4').countdown({until: newDate4});$('#start-downloadbtn').click( function(){$('#start-downloadbtn').fadeOut(300, function(){$('#start-download').fadeIn(300, function(){var currentDate = new Date();currentDate.setSeconds(currentDate.getSeconds() + 10);$('#countdown-ex5').countdown({until: currentDate,format: 'S',expiryUrl: 'http://themeforest.net/user/SemiColonWeb',onExpiry: function(){$('#start-download').html('Your Download should start automatically. If it dosen\'t, <a href="#" class="alert-link">click here</a>.');}});});});return false; });});</script>
+									</div>
+								
+								</div>
+
+								<div class="tab-content clearfix" id="tab2-3">
+									<p>Mauris eleifend est et turpis. Duis id erat. Suspendisse.</p>
+									
+								</div>
+							</div>
+						</div><!--tab 9-->
+
+						<div class="line"></div>
+					</div><!-- .postcontent end -->
+
+
